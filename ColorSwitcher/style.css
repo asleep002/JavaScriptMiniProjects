@@ -1,0 +1,40 @@
+.button{
+    height: 150px;
+    width: 150px;
+    margin: 10px;
+    border: solid 2px black;
+    border-radius: 30px;
+}
+#blue{
+    background-color:#2596be ;
+}
+#red{
+    background-color: #b4543a;
+}
+
+#olive{
+    background-color: #3f6c46;
+}
+#orange{
+    background-color: #d17e1c;
+}
+#white{
+    background-color: white;
+}
+#headingbox{
+background-color:beige;
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 20px;
+border-radius: 20px;
+
+}
+#buttonbox{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+justify-content: center;
+border-radius: 100px;
+/* flex-direction: column; */
+}
